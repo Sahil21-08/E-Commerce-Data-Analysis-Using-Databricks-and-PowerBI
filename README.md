@@ -1,6 +1,6 @@
 **Project 1.**
 
-**Executive Summary & High-Level KPIs**
+## Executive Summary & High-Level KPIs
 
 * 💰 **Total Sales & Volume:** The retail business generated **895.29M** total sales across **1M** transactions, with an Average Transaction Value (ATV) of **1.74K**.
 * 👥 **Customer Base:** A total of **14K** unique customers shopped during the analyzed period, spending an average of **34.67K** per customer.
