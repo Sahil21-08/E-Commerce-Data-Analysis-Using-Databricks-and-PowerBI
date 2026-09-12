@@ -100,6 +100,8 @@ Units Per Trip (UPT): 4.14 units per transaction
 
 Spend Per Customer: 12.69K per shopper
 
+---
+
 ### 🗺️ Regional Performance Breakdown
 **Regional Revenue Distribution:**
 
@@ -112,6 +114,8 @@ Spend Per Customer: 12.69K per shopper
 **East:** Represents 18.92% share (104.3K transactions, 646.43 ATV, 2,700 customers).
 
 **Central**: Holds a 16.25% revenue share, recording the highest Average Transaction Value (678.72) despite lower overall volume (85.7K transactions, 2,094 customers).
+
+---
 
 ### 📈 Month-on-Month Performance Review
 **Revenue Trajectory:** Monthly sales showed significant fluctuations, peaking in March 2026 at 15.4M (+13.3%) and November 2025 at 15.0M (+16.5%), with additional steady months in May 2026 (15.2M, +6.8%).
