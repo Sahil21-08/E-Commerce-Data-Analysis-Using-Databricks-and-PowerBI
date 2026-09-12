@@ -80,15 +80,17 @@ Here is a structured markdown section tailored for your GitHub **README.md** sum
 * **Flour & Atta** showed significant momentum with **+35.51% sales growth** (+41.82% transactions).
 * **Rice & Grains** remains the largest single category contributor at **3.29 Cr sales (+13.73% growth)**.
 
+**Project 3.**
+
 ## 🍷 Department Health & Performance Analysis: Beverages
-🔑 Department Overview & Key KPIs
-Total Department Revenue & Share: The Beverages department generated 179.51M in sales, contributing 20.05% to the total overall business revenue.
+**🔑 Department Overview & Key KPIs**
+**Total Department Revenue & Share:** The Beverages department generated **179.51M in sales**, **contributing 20.05%** to the total overall business revenue.
 
-High Customer Engagement: Achieved a massive 98.62% Customer Penetration rate, reaching 14K unique customers.
+**High Customer Engagement:** Achieved a massive **98.62% Customer Penetration rate**, **reaching 14K unique customers**.
 
-Volume & Basket Size: Recorded 1M in total unit quantity sold across 544K transactions.
+**Volume & Basket Size:** Recorded 1M in total unit quantity sold across 544K transactions.
 
-Basket Metrics:
+**Basket Metrics:**
 
 Average Transaction Value (ATV): 655.50
 
@@ -98,24 +100,24 @@ Units Per Trip (UPT): 4.14 units per transaction
 
 Spend Per Customer: 12.69K per shopper
 
-🗺️ Regional Performance Breakdown
-Regional Revenue Distribution:
+### 🗺️ Regional Performance Breakdown
+**Regional Revenue Distribution:**
 
-North: Dominates regional sales share at 25.97% (139.4K transactions, 665.99 ATV, 3,622 customers).
+**North:** Dominates regional sales share at 25.97% (139.4K transactions, 665.99 ATV, 3,622 customers).
 
-West: Accounts for 19.46% of revenue (107.9K transactions, 641.90 ATV, 2,867 customers).
+**West:** Accounts for 19.46% of revenue (107.9K transactions, 641.90 ATV, 2,867 customers).
 
-South: Contributes 19.40% to overall sales (107.1K transactions, 645.03 ATV, 2,864 customers).
+**South:** Contributes 19.40% to overall sales (107.1K transactions, 645.03 ATV, 2,864 customers).
 
-East: Represents 18.92% share (104.3K transactions, 646.43 ATV, 2,700 customers).
+**East:** Represents 18.92% share (104.3K transactions, 646.43 ATV, 2,700 customers).
 
-Central: Holds a 16.25% revenue share, recording the highest Average Transaction Value (678.72) despite lower overall volume (85.7K transactions, 2,094 customers).
+**Central**: Holds a 16.25% revenue share, recording the highest Average Transaction Value (678.72) despite lower overall volume (85.7K transactions, 2,094 customers).
 
-📈 Month-on-Month Performance Review
-Revenue Trajectory: Monthly sales showed significant fluctuations, peaking in March 2026 at 15.4M (+13.3%) and November 2025 at 15.0M (+16.5%), with additional steady months in May 2026 (15.2M, +6.8%).
+### 📈 Month-on-Month Performance Review
+**Revenue Trajectory:** Monthly sales showed significant fluctuations, peaking in March 2026 at 15.4M (+13.3%) and November 2025 at 15.0M (+16.5%), with additional steady months in May 2026 (15.2M, +6.8%).
 
-Performance Troughs: Dip points occurred during September 2025 (12.9M, -8.7%), February 2026 (13.6M, -6.0%), and July 2025 (12.3M, -2.9%).
+**Performance Troughs:** Dip points occurred during September 2025 (12.9M, -8.7%), February 2026 (13.6M, -6.0%), and July 2025 (12.3M, -2.9%).
 
-Stability in ATV: Across the 13-month timeline, Average Transaction Value (ATV) remained remarkably stable and consistent despite periodic shifts in overall sales revenue.
+**Stability in ATV:** Across the 13-month timeline, Average Transaction Value (ATV) remained remarkably stable and consistent despite periodic shifts in overall sales revenue.
 
 ---
