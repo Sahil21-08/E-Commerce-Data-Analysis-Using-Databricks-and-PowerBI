@@ -12,24 +12,24 @@
 **Regional & Store Performance**
 
 * 🗺️ **Regional Revenue Breakdown:** The **North region** dominates total sales contribution at **26.6%** (238M), followed by West (20.3%), South (20.1%), East (19.2%), and Central (13.9%).
-* 🏙️ **Top Performing Cities:** **Bangalore** leads city-level revenue at **7.17 Cr** with a **33.3%** L6M growth rate and a **60.4%** loyalty sales share. Pune, Noida, and Kolkata follow closely in revenue performance.
-* 🛒 **Store Format Breakdown:** **Supermarket** formats bring in the majority of revenue (**63.94 Cr**) with a **28.8%** L6M sales growth. **Fresh** store formats achieve the highest loyalty engagement rate at **70.4%**.
+* 🏙️ **Top Performing Cities:** **Bangalore** leads city-level revenue at **7.17 Cr** with a **33.3%** L6M growth rate and a **60.4%** loyalty sales share. Pune, Noida, and Kolkata follow closely[...]
+* 🛒 **Store Format Breakdown:** **Supermarket** formats bring in the majority of revenue (**63.94 Cr**) with a **28.8%** L6M sales growth. **Fresh** store formats achieve the highest loyalty engage[...]
 
 ---
 
 **Departmental & Category Performance**
 
-* 📦 **Top Revenue Departments:** **Grocery & Staples** is the largest department driving **33.3%** of overall sales (**238.3M** sales volume), followed by **Beverages** (**20.0%** contribution).
+* 📦 **Top Revenue Departments:** **Grocery & Staples** is the largest department driving **33.3%** of overall sales (**238.3M** sales volume), followed by **Beverages** (**20.0%** contribution)[...]
 * 🔒 **Loyalty Engagement by Department:** **Household** items command the highest loyalty share at **80.3%**, despite accounting for only 7.5% of total sales contribution.
-* 🎯 **Key Driving Categories (80/20 Pareto Rule):** **Rice & Grains** (**11.9%** sales contribution) and **Tea & Coffee** (**11.9%**) serve as primary revenue drivers, both showing high customer penetration rates (>90%). Small Appliances boasts the highest average transaction value at **3,404.53**.
+* 🎯 **Key Driving Categories (80/20 Pareto Rule):** **Rice & Grains** (**11.9%** sales contribution) and **Tea & Coffee** (**11.9%**) serve as primary revenue drivers, both showing high customer pe[...]
 
 ---
 
 **Customer Insights & Demographics**
 
-* 🥈 **Loyalty Tier Distribution:** **Silver tier** members make up the overwhelming majority at **74.8%** of the loyalty customer base, while Gold represents **18.4%** and Platinum holds **6.9%**.
+* 🥈 **Loyalty Tier Distribution:** **Silver tier** members make up the overwhelming majority at **74.8%** of the loyalty customer base, while Gold represents **18.4%** and Platinum holds **6.9%[...]**
 * 📱 **Payment Preferences:** Digital payments dominate customer transactions, with **UPI** leading at **46.4%**, followed by **Cash** (**37.4%**) and **Card** (**16.2%**).
-* 🎂 **Age Group Demographics:** The primary customer base is concentrated in middle-aged groups—**26–35 years** (**29.2%**) and **36–45 years** (**27.8%**), followed by 46–60 years (19.2%) and 18–25 years (14.7%).
+* 🎂 **Age Group Demographics:** The primary customer base is concentrated in middle-aged groups—**26–35 years** (**29.2%**) and **36–45 years** (**27.8%**), followed by 46–60 years (19.2%) [...]
 
 
 Here is a structured markdown section tailored for your GitHub **README.md** summarizing the insights from your Power BI Like-For-Like (LFL) report screenshots:
@@ -44,8 +44,8 @@ Here is a structured markdown section tailored for your GitHub **README.md** sum
 
 * **Strong Top-Line Revenue Growth:** Current Year (CY) sales reached **185.3M**, representing a **+19.7% LFL growth** compared to Previous Year (PY) sales of **154.8M**.
 * **Transaction & Volume Driven Growth:** Overall volume surged with **1M units sold (+35.1% growth)** across **644K transactions (+28.3% growth)**.
-* **Pricing & Basket Dynamics:** Growth is entirely transaction and volume-driven, as **Average Transaction Value (ATV)** decreased by **-6.7%** (CY 287.86 vs PY 308.59), alongside slight declines in Average Selling Price (ASP) across most categories.
-* **Monthly Sales Trajectory:** Monthly revenue displays seasonality with peaks in **March 2026 (39.4M, +16.8% YoY)** and **May 2026 (38.7M, +23.4% YoY)**, recovering from a trough in **Feb 2026 (34.4M, +22.8% YoY)**.
+* **Pricing & Basket Dynamics:** Growth is entirely transaction and volume-driven, as **Average Transaction Value (ATV)** decreased by **-6.7%** (CY 287.86 vs PY 308.59), alongside slight declines in [...]
+* **Monthly Sales Trajectory:** Monthly revenue displays seasonality with peaks in **March 2026 (39.4M, +16.8% YoY)** and **May 2026 (38.7M, +23.4% YoY)**, recovering from a trough in **Feb 2026 (34.4[...]
 
 ---
 
@@ -63,7 +63,7 @@ Here is a structured markdown section tailored for your GitHub **README.md** sum
 * **Fresh** format accounts for **15.34%** of sales.
 
 
-* **City Highlights:** Key urban hubs like **Kolkata** (Supermarket: 1.26 Cr, +22.14% sales growth), **Pune** (Supermarket: 1.25 Cr, +23.52% sales growth), and **Jaipur** (Supermarket: 1.10 Cr, +22.63% sales growth) serve as primary growth engines.
+* **City Highlights:** Key urban hubs like **Kolkata** (Supermarket: 1.26 Cr, +22.14% sales growth), **Pune** (Supermarket: 1.25 Cr, +23.52% sales growth), and **Jaipur** (Supermarket: 1.10 Cr, +22.63[...]
 
 ---
 
@@ -118,10 +118,66 @@ Spend Per Customer: 12.69K per shopper
 ---
 
 ### 📈 Month-on-Month Performance Review
-**Revenue Trajectory:** Monthly sales showed significant fluctuations, peaking in March 2026 at 15.4M (+13.3%) and November 2025 at 15.0M (+16.5%), with additional steady months in May 2026 (15.2M, +6.8%).
+**Revenue Trajectory:** Monthly sales showed significant fluctuations, peaking in March 2026 at 15.4M (+13.3%) and November 2025 at 15.0M (+16.5%), with additional steady months in May 2026 (15.2[...]
 
 **Performance Troughs:** Dip points occurred during September 2025 (12.9M, -8.7%), February 2026 (13.6M, -6.0%), and July 2025 (12.3M, -2.9%).
 
 **Stability in ATV:** Across the 13-month timeline, Average Transaction Value (ATV) remained remarkably stable and consistent despite periodic shifts in overall sales revenue.
+
+---
+
+**Project 4.**
+
+## 🗺️ Regional, State & City Performance Insights
+
+### 🔑 North Region Overview
+
+* **Strong Revenue Growth:** The North region generated **97.31M** in CY sales, with **113K transactions** and a **+24.62% YoY sales growth**.
+* **Volume-Led Performance:** CY quantity reached **507K units**, growing **+34.67% YoY**, while transactions increased **+20.98%**.
+* **Healthy Basket Value:** CY ATV stood at **859.66**, up **+3.01% YoY**, indicating that growth came from both higher customer activity and slightly larger baskets.
+* **Customer Expansion:** **4K customers** shopped in the region, representing **+64.67% YoY customer growth**. However, spend per customer declined **-24.32%** to **27.18K**, suggesting that the customer base expanded faster than individual customer value.
+
+---
+
+### 📍 State-Level Performance
+
+* **Uttar Pradesh** is the largest contributor among the selected states, accounting for **10.41% of CY sales**. It also records the strongest sales growth (**+30.31%**), transaction growth (**+25.06%**), and customer growth (**+74.55%**).
+* **Punjab** delivers **7.29%** of sales and has a high CY spend per customer of **31,370.50**, with **+21.75%** sales growth and **+57.94%** customer growth.
+* **Rajasthan** contributes **6.74%** of sales and records the highest CY spend per customer at **31,379.91**. Sales grew **+22.05%**, supported by **+19.74%** transaction growth.
+* **Uttarakhand** has the smallest sales contribution at **2.31%** and the lowest spend per customer (**20,821.74**), although its ATV growth is comparatively strong at **+3.39%**.
+* **Key watchout:** All four states show negative YoY spend-per-customer growth, ranging from **-20.87% to -25.35%**. This reinforces the need for retention, cross-selling, and higher-value basket initiatives.
+
+---
+
+### 🏙️ City Concentration & Tier Mix
+
+* **Concentrated City Contribution:** **Noida** leads the city mix with **28.1M** in sales and contributes **56.09%** cumulatively. **Chandigarh** adds **26.5M**, taking cumulative contribution to **81.27%**.
+* **Top Three Cities Drive the Business:** Adding **Jaipur** (**24.5M**) raises cumulative sales concentration to **91.36%**. Lucknow (**9.8M**) and Dehradun (**8.4M**) complete the displayed city contribution.
+* **Tier Distribution:** Tier 1 cities contribute the majority of sales at **56.09%**, followed by Tier 2 cities at **35.27%** and Tier 3 cities at **8.64%**. The business is therefore heavily dependent on Tier 1 and Tier 2 markets.
+* **City Opportunity:** The high concentration in a few cities creates strong scale opportunities, but also introduces geographic concentration risk. Expanding demand and improving assortment in Tier 3 cities could create a more balanced growth portfolio.
+
+---
+
+### 🏪 Store Format & High-Value Basket Insights
+
+* **Supermarket Dominance:** Supermarkets account for **81.27%** of sales, while Express stores contribute **18.73%**. Supermarkets remain the primary revenue engine in the North region.
+* **High-Value Basket Leaders:** Noida, Chandigarh, and Jaipur combine high sales with ATVs close to **1,000**, making them the strongest markets for premium baskets and cross-selling.
+* **Emerging Lower-ATV Markets:** Lucknow and Dehradun generate lower sales, approximately **9.8M** and **8.4M**, with ATVs around **533–550**. These markets may benefit from basket-building offers, local assortment optimization, and targeted promotions.
+
+---
+
+### 📈 Monthly Sales Trend
+
+* **Positive Long-Term Direction:** Monthly sales increased from **15.6M in January 2025** to **20.2M in May 2026**, despite recurring month-to-month fluctuations.
+* **Peak Months:** The strongest observed months were **October 2025 (20.9M)**, **March 2026 (20.8M)**, and **May 2026 (20.2M)**.
+* **Seasonal Volatility:** Sales dipped to **14.2M in February 2025**, **15.7M in July 2025**, and **16.5M in September 2025**, before recovering in subsequent months.
+* **Overall Takeaway:** The region demonstrates resilient growth momentum, with recent sales consistently staying near or above **18M**. Maintaining momentum will depend on converting the rapidly growing customer base into higher spend per customer.
+
+### 🎯 Strategic Recommendations
+
+* Protect leadership in **Noida, Chandigarh, and Jaipur** through localized promotions and premium assortment planning.
+* Focus on **Uttar Pradesh** for expansion, given its leading sales, transaction, and customer growth rates.
+* Improve customer value through personalized offers, bundles, and loyalty campaigns to reverse the decline in spend per customer.
+* Use Express stores and Tier 3 markets as targeted growth channels rather than relying primarily on the established Supermarket base.
 
 ---
