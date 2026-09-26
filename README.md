@@ -29,10 +29,10 @@
 
 * 🥈 **Loyalty Tier Distribution:** **Silver tier** members make up the overwhelming majority at **74.8%** of the loyalty customer base, while Gold represents **18.4%** and Platinum holds **6.9%[...]**
 * 📱 **Payment Preferences:** Digital payments dominate customer transactions, with **UPI** leading at **46.4%**, followed by **Cash** (**37.4%**) and **Card** (**16.2%**).
-* 🎂 **Age Group Demographics:** The primary customer base is concentrated in middle-aged groups—**26–35 years** (**29.2%**) and **36–45 years** (**27.8%**), followed by 46–60 years (19.2%) [...]
+* 🎂 **Age Group Demographics:** The primary customer base is concentrated in middle-aged groups—**26–35 years** (**29.2%**) and **36–45 years** (**27.8%**), followed by 46–60 years (19.2%).
 
 
-Here is a structured markdown section tailored for your GitHub **README.md** summarizing the insights from your Power BI Like-For-Like (LFL) report screenshots:
+
 
 ---
 
